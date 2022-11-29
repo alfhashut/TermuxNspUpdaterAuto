@@ -1,0 +1,4 @@
+#!/bin/bash
+./nsp_update_patcher.sh
+pkg install figlet -y
+figlet Done
